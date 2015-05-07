@@ -1,12 +1,12 @@
-# NYTimes Objective-C Style Guide
+# NYTimes Objective-C スタイルガイド
 
-This style guide outlines the coding conventions of the iOS teams at The New York Times. We welcome your feedback in [issues](https://github.com/NYTimes/objetive-c-style-guide/issues), [pull requests](https://github.com/NYTimes/objetive-c-style-guide/pulls) and [tweets](https://twitter.com/nytimesmobile). Also, [we’re hiring](http://jobs.nytco.com/job/New-York-iOS-Developer-Job-NY-10001/73366300/).
+このスタイルガイドは、ニューヨーク・タイムズでの iOS チームのコーディング規約をまとめています。[課題](https://github.com/NYTimes/objetive-c-style-guide/issues)、[プルリクエスト](https://github.com/NYTimes/objetive-c-style-guide/pulls) 、[つぶやき](https://twitter.com/nytimesmobile)へのあなたのフィードバックを歓迎します。ただいま[求人中です](http://jobs.nytco.com/job/New-York-iOS-Developer-Job-NY-10001/73366300/)。
 
-Thanks to all of [our contributors](https://github.com/NYTimes/objective-c-style-guide/contributors).
+[貢献者の皆さん](https://github.com/NYTimes/objective-c-style-guide/contributors)に感謝します。
 
-## Introduction
+## はじめに
 
-Here are some of the documents from Apple that informed the style guide. If something isn’t mentioned here, it’s probably covered in great detail in one of these:
+アップルのスタイルガイド文書がいくつかあります。ここで述べられていないことは、おそらく次のいずれかで詳細にカバーされているでしょう:
 
 * [The Objective-C Programming Language](http://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/ObjectiveC/Introduction/introObjectiveC.html)
 * [Cocoa Fundamentals Guide](https://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/CocoaFundamentals/Introduction/Introduction.html)
